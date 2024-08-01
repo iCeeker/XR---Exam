@@ -2,18 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class loadContent : MonoBehaviour
+public class LoadContent : MonoBehaviour
 {
-    public GameObject marker;
+    // Set Content that needs to be laoded
     public GameObject content;
-    public GameObject disableMarker1;
-    public GameObject disableMarker2;   
 
         private void OnMouseUpAsButton()
+    {
+        // Find Marker
+        GameObject[] markers = GameObject.FindGameObjectsWithTag("Marker");
+          
+        // Disable Marker 
+        foreach (GameObject marker in markers)
         {
             marker.SetActive(false);
-            content.SetActive(true);
-            disableMarker1.SetActive(false);
-            disableMarker2.SetActive(false);
         }
+
+         content.SetActive(true);
+  }
 }
