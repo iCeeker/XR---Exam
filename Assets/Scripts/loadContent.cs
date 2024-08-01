@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LoadContent : MonoBehaviour
 {
-    // Set Content that needs to be laoded
+    // Set Content that needs to be loaded
     public GameObject content;
 
         private void OnMouseUpAsButton()

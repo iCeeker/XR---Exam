@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using UnityEngine;
 
-public class SwitchImages : MonoBehaviour
+public class SwitchOnlyImages : MonoBehaviour
 {
-    public GameObject[] text;
     public GameObject[] images;
     private int imageNumber;
 
@@ -26,7 +25,7 @@ public class SwitchImages : MonoBehaviour
         }
 
         SetImage();
-        Debug.Log("Next");
+      //  Debug.Log("Next");
     }
 
     // By Pressing the Previous Button, load the Previous Image in the list
@@ -39,17 +38,15 @@ public class SwitchImages : MonoBehaviour
             imageNumber = images.Length - 1;
         }
         SetImage();
-        Debug.Log("Previous");
+      //  Debug.Log("Previous");
     }
 
-    // Load Image & Text according to Number of Index
     void SetImage ()
     {
         for (int i = 0; i < images.Length; i++)
         {
             images[i].SetActive(i == imageNumber);
-            text[i].SetActive(i == imageNumber);
-            Debug.Log("indexnumber: " + i);
+          //  Debug.Log("indexnumber: " + i);
         }
     }
 }

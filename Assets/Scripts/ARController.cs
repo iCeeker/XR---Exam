@@ -12,7 +12,7 @@ public class ARController : MonoBehaviour
     // Initial scale Factor which has been set by the vuforia configuration
     private float initialScaleFactor;
 
-    //  Amount, of which the objects have been scaled
+    // Amount, of which the objects have been scaled
     private float currentScaleFactor;
 
 
@@ -23,12 +23,7 @@ public class ARController : MonoBehaviour
         currentScaleFactor = initialScaleFactor;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+    // Scale scene according to scene scale factor + scaling factor with slider
     public void SetSceneScale (float scale)
     {
         currentScaleFactor = initialScaleFactor / scale;
