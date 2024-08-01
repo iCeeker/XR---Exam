@@ -11,17 +11,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 35b66dc5be440d44893e577291fc3e48,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 69.921036
+      value: 6.992104
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 35b66dc5be440d44893e577291fc3e48,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 69.921036
+      value: 6.992104
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 35b66dc5be440d44893e577291fc3e48,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 69.921036
+      value: 6.992104
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 35b66dc5be440d44893e577291fc3e48,
         type: 3}
@@ -72,6 +72,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35b66dc5be440d44893e577291fc3e48,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 35b66dc5be440d44893e577291fc3e48,
         type: 3}
@@ -135,3 +140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9590628ee47076645b85f57a6f744f62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  marker: {fileID: 0}
+  content: {fileID: 0}
+  disableMarker1: {fileID: 0}
+  disableMarker2: {fileID: 0}
