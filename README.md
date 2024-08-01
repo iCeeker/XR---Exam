@@ -35,6 +35,7 @@ All Content that has been used are under the CC0 Licence and can be used freely 
 * Vasco: https://www.worldhistory.org/uploads/images/14119.png
 * Vasco Traderoute: https://www.worldhistory.org/article/1800/indian-ocean-trade-before-the-european-conquest/
 * Vasco Calicut: https://creazilla.com/media/traditional-art/6656565/amh-6960-kb-vasco-de-gama-s-arrival-at-the-samoryn-of-calicut
+* Vasco Tomb: https://commons.wikimedia.org/wiki/File:Lisbon_%28Bel%C3%A9m%29,_Monastery_of_the_Hieronymites,_tomb_of_Vasco_da_Gama.JPG
 * Titanic: https://cloudfiles.j2e.com/x9sPwnPSRrSRwHJP
 * Titanic Model: https://commons.wikimedia.org/wiki/File:Titanic_Portside_Diagram.jpg
 * Titanic Newspaper: https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3drMTE2OTMzNjA5LWltYWdlLmpwZw.jpg
@@ -45,7 +46,10 @@ All Content that has been used are under the CC0 Licence and can be used freely 
 * Plakat: https://www.freepik.com/free-vector/sailing-horizontal-banners-webpage-design_4385725.htm
 * Residenz Ansbach: https://de.wikipedia.org/wiki/Datei:Residenz_Ansbach_20220106_0384.jpg
 * Phoenician Trade: https://commons.wikimedia.org/wiki/File:PhoenicianTrade_EN.svg#/media/File:PhoenicianTrade_DE.svg
+* Phoenician Trade XR: https://commons.wikimedia.org/wiki/File:Phoenician_settlements_and_trade_routes.jpg
 * Phoenician Ships: https://cdn6.picryl.com/photo/1796/01/01/phoenician-ships-04b72f-640.jpg
+* Phoenician Alphabet: https://picryl.com/media/phoenicians-alphabet-ec1629
+* Phoenician Sailors: https://cdn6.picryl.com/photo/1882/01/01/phoenician-sailors-b93233-640.jpg
 * FaceBook & Instagram Icon by: Icon8
 
 ### Soundeffects:
