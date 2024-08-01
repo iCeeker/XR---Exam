@@ -11,6 +11,10 @@ public class ResetMarkerButton : MonoBehaviour
     public GameObject marker3;
     public GameObject marker4;
     public GameObject marker5;
+    public GameObject marker6;
+    public GameObject marker7;
+    public GameObject marker8;
+    public GameObject marker9;
 
 
 
@@ -32,6 +36,11 @@ public class ResetMarkerButton : MonoBehaviour
         marker3.SetActive(true);
         marker4.SetActive(true);
         marker5.SetActive(true);
+        marker6.SetActive(true);
+        marker7.SetActive(true);
+        marker8.SetActive(true);
+        marker9.SetActive(true);
+   
 
         // Weder Liste noch foreach Schleife hat bei den Markern funktioniert. Daher die unsaubere Lösung.
 
