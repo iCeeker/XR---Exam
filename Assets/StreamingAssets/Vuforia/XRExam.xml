@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Plakat" size="0.600000 0.425119" />
-    <ImageTarget name="FlyerAussen" size="0.300000 0.212352" />
-    <ImageTarget name="FlyerInnen" size="0.300000 0.212100" />
+    <ImageTarget name="FlyerInnenMarker" size="0.300000 0.212100" />
+    <ImageTarget name="FlyerAussenMarker" size="0.300000 0.212352" />
   </Tracking>
 </QCARConfig>
