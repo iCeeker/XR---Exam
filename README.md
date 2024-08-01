@@ -50,13 +50,17 @@ All Content that has been used are under the CC0 Licence and can be used freely 
 * Phoenician Ships: https://cdn6.picryl.com/photo/1796/01/01/phoenician-ships-04b72f-640.jpg
 * Phoenician Alphabet: https://picryl.com/media/phoenicians-alphabet-ec1629
 * Phoenician Sailors: https://cdn6.picryl.com/photo/1882/01/01/phoenician-sailors-b93233-640.jpg
+* SouthAmericaMap: https://jenikirbyhistory.getarchive.net/media/1546-map-of-the-world-by-pierre-desceliers-3-4ab76e
 * FaceBook & Instagram Icon by: Icon8
 
 ### Soundeffects:
 * Viking Diorama: https://mixkit.co/
+* Viking Screaming: https://pixabay.com
+* Deserted Island: https://pixabay.com
 
 ### Videos:
 * Viking: https://mixkit.co
+* Deserted Island: https://mixkit.co
 * TitanicVideo: https://pixabay.com
 * Phoenicians Video: https://pixabay.com
 
