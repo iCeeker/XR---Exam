@@ -10,7 +10,6 @@ This is the finalized prototype of an augmented enhanced flyer/poster which has 
 * Information Screen of Phoenicians with placeholder video
 * Information Screen of Vikings with placeholder video & diorama showcase
 * Information Screen of Titanic with placeholder video & image galery with voiceover
-* 
 
 ### Controls
 * Scan the flyer/poster to load the content 
